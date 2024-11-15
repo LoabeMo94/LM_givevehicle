@@ -136,3 +136,5 @@ CREATE TABLE `owned_vehicles` (
 Dieses Skript stellt Admins eine Vielzahl von Werkzeugen zur Verfügung, um die Verwaltung von Fahrzeugen zu erleichtern. Mit der Möglichkeit, Fahrzeuge zu erstellen, zu löschen und deren Status zu ändern, kombiniert mit einem Discord-Logging-Mechanismus, wird eine effiziente Verwaltung ermöglicht. Die zusätzlichen Chat-Befehlsvorschläge verbessern die Benutzererfahrung und erleichtern die Nutzung der Befehle für Admins.
 
 Wenn du noch weitere Fragen hast oder zusätzliche Funktionen benötigst, lass es mich wissen! 😊
+
+https://discord.gg/YGsQeQmuGg
